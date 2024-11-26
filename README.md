@@ -56,6 +56,3 @@ This function calculates the optical flow between consecutive smoothed frames us
 
 Feel free to fork the repository and create a pull request for any improvements or bug fixes. Please ensure that any contributions are well-documented and come with the appropriate tests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
