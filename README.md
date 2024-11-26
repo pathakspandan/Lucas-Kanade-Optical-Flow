@@ -45,7 +45,7 @@ This function calculates the optical flow between consecutive smoothed frames us
 ### Outputs
 
 - **Temporal Smoothing:** The smoothed frames are saved as `.npy` files in the `new_path` directory.  
-- **Optical Flow:** The computed optical flow velocity components (`vx`, `vy`) and reliability scores are saved as `.npy` files in the `save_path` directory.
+- **Optical Flow:** The computed optical flow velocity components (`vx`, `vy`) and reliability scores are saved as `.npz` files in the `save_path` directory.
 
 ## Example Workflow
 
